@@ -23,30 +23,28 @@
 <p align="center">
 
 - **Backend Development**:
-  
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
-     <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="40" height="40" />
-     <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="40" height="40" />
-     <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="40" height="40" />
-     <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="40" height="40" />
-     
-     
-     
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,jquery,cs,dotnet,java,spring,hibernate,r,clojure" />
+</a>    
   
 - **Frontend Development**:
   
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
-   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="40" height="40" alt="React"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap" />
+</a>
 
 - **Softwares and Tools**:
   
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,windows" />
+</a>
     
+- **Others**:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,nginx,md,maven,mongodb,mysql,postgres,sqlite" />
+</a>    
 
 <br>
 
@@ -54,17 +52,11 @@
 
 <h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
- 	<a   target="_blank" href="https://www.linkedin.com/in/">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" >
-	</a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-	</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;">
-	</a>
- </div>
+	<div align="center"  class="icons-social" style="margin-left: 10px;">
+		<a href="https://www.linkedin.com/in/mat%C3%ADas-seba-mallo-159381261/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ 		<a href="mailto:3matias.sm@gmail.com?subject=Contacto%20Desde%20Github&body=Hola," target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+		<a href="https://github.com/D-Malex" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+	</div>
 </p>
 </div>
 

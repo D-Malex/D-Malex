@@ -41,15 +41,6 @@
 
 <br>
 
-## 🟡 Pac-Man Eating my Contributions Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 -----
 
 <h3 align="center" >Connect with me 🤝 </h3>
@@ -70,3 +61,14 @@
 </div>
 
 ------
+
+<br>
+
+## 🟡 Pac-Man Eating my Contributions Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D-Malex/D-Malex/output/pacman-contribution-graph.svg">
+</picture>
+
+###

@@ -54,7 +54,7 @@
 <p align="center">
 	<div align="center"  class="icons-social" style="margin-left: 10px;">
 		<a href="https://www.linkedin.com/in/mat%C3%ADas-seba-mallo-159381261/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
- 		<a href="mailto:3matias.sm@gmail.com?subject=Contacto%20Desde%20Github&body=Hola," target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+ 		<a href="mailto:3matias.sm@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 		<a href="https://github.com/D-Malex" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 	</div>
 </p>

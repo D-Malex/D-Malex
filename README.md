@@ -46,8 +46,6 @@
     <img src="https://skillicons.dev/icons?i=npm,nginx,md,maven,mongodb,mysql,postgres,sqlite" />
 </a>    
 
-<br>
-
 -----
 
 <h3 align="center" >Connect with me 🤝 </h3>
